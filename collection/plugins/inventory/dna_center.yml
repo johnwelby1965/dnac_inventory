@@ -1,7 +1,7 @@
 ---
 plugin: dna_center
 host: sandboxdnac.cisco.com
-validate_certs: false
+validate_certs: true
 use_dnac_mgmt_int: false
 username: devnetuser
 password: Cisco123!
