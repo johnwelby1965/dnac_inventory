@@ -1,4 +1,5 @@
 ---
+# plugin: namespace.collection_name.inventory_plugin_name
 plugin: dna_center
 host: sandboxdnac.cisco.com
 validate_certs: false
