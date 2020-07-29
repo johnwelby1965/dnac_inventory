@@ -1,4 +1,4 @@
----
+
 # plugin: namespace.collection_name.inventory_plugin_name
 plugin: wwt.ansible_dnac.dna_center
 host: sandboxdnac.cisco.com
