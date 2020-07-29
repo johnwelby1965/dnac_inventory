@@ -1,15 +1,8 @@
-# copy of Jeff's dna_center.yml
-# plugin: dna_center
-# host: <your_dna_center>
-# validate_certs: <true or false>
-# use_dnac_mgmt_int: <true or false>
-# username: <username>
-# password: <vaulted password>
-# plugin: namespace.collection_name.inventory_plugin_name
-
+---
 plugin: dna_center
 host: 'sandboxdnac.cisco.com'
 validate_certs: 'false'
 use_dnac_mgmt_int: 'false'
 username: 'devnetuser'
 password: 'Cisco123!'
+...
