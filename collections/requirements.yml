@@ -1,5 +1,5 @@
 ---
 collections:
-- name: wwt.ansible_dnac
+- name: wwt.ansible_dnac.dna_center
   source: https://galaxy.ansible.com
 ...
