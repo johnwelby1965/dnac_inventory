@@ -47,8 +47,8 @@ dependencies: {}
 # The URL of the originating SCM repository
 # repository: https://github.com/jandiorio/ansible-dnac-modules/tree/v1.1.5
 # repository: https://github.com/jandiorio/ansible-dnac-modules
-# repository: https://github.com/jandiorio/ansible-dnac-modules/tree/master/plugins/inventory
-repository: https://github.com/johnwelby1965/dnac/tree/master/plugins/inventory
+repository: https://github.com/jandiorio/ansible-dnac-modules/tree/master/plugins/inventory
+# repository: https://github.com/johnwelby1965/dnac/tree/master/plugins/inventory
 
 # The URL to any online docs
 documentation: ""
