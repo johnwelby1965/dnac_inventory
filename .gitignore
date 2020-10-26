@@ -9,3 +9,7 @@ scratch
 hosts.yaml
 dnac_api_support.xlsx
 .vscode/settings.json
+
+# collections
+collections/*
+!collections/requirements.yml
