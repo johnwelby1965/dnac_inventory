@@ -1,5 +1,5 @@
 
-plugin: dna_center
+plugin: dna_center.yml
 host: sandboxdnac.cisco.com
 validate_certs: false
 use_dnac_mgmt_int: false
